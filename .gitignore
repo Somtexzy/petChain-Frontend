@@ -36,7 +36,6 @@ performance/results/*.json
 performance/results/*.md
 
 # env files (can opt-in for committing if needed)
-.env
 
 # vercel
 .vercel
@@ -54,3 +53,4 @@ bun.lock
 
 # Project issues file
 vrickish.md
+config.bat
